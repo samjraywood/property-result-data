@@ -43,7 +43,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:00.024423",
-    "last_seen": "2026-03-29T18:38:47.517557",
+    "last_seen": "2026-04-03T14:25:35.762066",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -247,7 +247,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:09.983478",
-    "last_seen": "2026-03-29T18:39:25.459024",
+    "last_seen": "2026-04-03T14:26:17.012302",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -287,15 +287,10 @@
         "value": "Detached",
         "confidence": 1.0,
         "evidence": "Detached 19th Century House"
-      },
-      "condition": {
-        "value": "LowMaintenance",
-        "confidence": 0.3,
-        "evidence": "Original features retained throughout the property"
       }
     },
-    "llm_score": 17,
-    "llm_score_percent": 76,
+    "llm_score": 21,
+    "llm_score_percent": 82,
     "llm_score_breakdown": [
       {
         "feature": "land",
@@ -321,11 +316,6 @@
         "feature": "property_type",
         "value": "Detached",
         "score": 3
-      },
-      {
-        "feature": "condition",
-        "value": "LowMaintenance",
-        "score": -4
       }
     ]
   },
@@ -384,7 +374,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:15.360695",
-    "last_seen": "2026-03-29T18:41:26.956734",
+    "last_seen": "2026-04-03T14:27:39.484735",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -422,7 +412,7 @@
       },
       "setting": {
         "value": "Private",
-        "confidence": 0.7,
+        "confidence": 0.8,
         "evidence": "LARGEST PRIVATE GARDEN ON THE DEVELOPMENT"
       },
       "property_type": {
@@ -438,7 +428,7 @@
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
-        "evidence": "DESIGNED WITH EASE OF ACCESS AND MOBILITY IN MIND"
+        "evidence": "DESIGNED WITH EASE OF ACCESS AND MOBILITY IN MIND, uPVC DOUBLE GLAZING AND UNDER FLOOR HEATING"
       }
     },
     "llm_score": 9,
@@ -529,7 +519,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:20.210289",
-    "last_seen": "2026-03-29T18:42:46.426179",
+    "last_seen": "2026-04-03T14:28:18.181098",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -553,7 +543,7 @@
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
-        "evidence": "Chain-free ready to move straight into, Solar panels with feed-in tariff"
+        "evidence": "Solar panels with feed-in tariff"
       }
     },
     "llm_score": -3,
@@ -636,7 +626,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:25.220348",
-    "last_seen": "2026-03-29T18:42:08.339518",
+    "last_seen": "2026-04-03T14:29:01.111138",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -813,7 +803,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:30.347480",
-    "last_seen": "2026-03-29T18:40:47.460522",
+    "last_seen": "2026-04-03T14:29:41.938987",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -939,8 +929,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:35.439367",
     "last_seen": "2026-03-29T18:43:26.313066",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:38:35.439367",
@@ -1035,7 +1025,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:40.504232",
-    "last_seen": "2026-03-29T18:44:07.174897",
+    "last_seen": "2026-04-03T14:30:25.197897",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1192,7 +1182,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:45.573790",
-    "last_seen": "2026-03-29T18:45:25.546580",
+    "last_seen": "2026-04-03T14:31:46.137578",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1236,7 +1226,7 @@
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.8,
-        "evidence": "AIR SOURCED HEAT PUMP POWERS UNDER FLOOR HEATING PLUS DOUBLE GLAZING... STYLISH HIGH-END FINISH"
+        "evidence": "AIR SOURCED HEAT PUMP POWERS UNDER FLOOR HEATING PLUS DOUBLE GLAZING... SUPERB EPC RATING - BAND A"
       }
     },
     "llm_score": 17,
@@ -1331,7 +1321,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:50.391190",
-    "last_seen": "2026-03-29T18:44:45.118757",
+    "last_seen": "2026-04-03T14:31:04.482042",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1349,7 +1339,7 @@
     "llm_features": {
       "parking": {
         "value": "Driveway",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "evidence": "Ample Driveway Parking"
       },
       "setting": {
@@ -1359,13 +1349,13 @@
       },
       "outlook": {
         "value": "Views",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "evidence": "Countryside Views"
       },
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
-        "evidence": "High Specification - Solar panels with solar water boost - Tethered EV charger - Water harvesting tank - Air source heat pump"
+        "evidence": "High Specification - Solar panels with solar water boost - Water harvesting tank - Air source heat pump"
       }
     },
     "llm_score": 4,
@@ -1438,7 +1428,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:55.073579",
-    "last_seen": "2026-03-29T18:46:02.636547",
+    "last_seen": "2026-04-03T14:32:24.647050",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1456,7 +1446,7 @@
     "llm_features": {
       "outbuildings": {
         "value": "Workshop",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "- Workshop"
       }
     },
@@ -1535,7 +1525,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:38:59.871329",
-    "last_seen": "2026-03-29T18:47:22.148527",
+    "last_seen": "2026-04-03T14:33:03.529856",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1653,7 +1643,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:05.242205",
-    "last_seen": "2026-03-29T18:46:43.756971",
+    "last_seen": "2026-04-03T14:33:45.659327",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1726,7 +1716,7 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/172772669": {
-    "price_display": "\u00a3495,000 Offers in Excess of",
+    "price_display": "\u00a3495,000 Guide Price",
     "price": 495000,
     "location": "Brookside, Sandford Orcas, Sherborne",
     "beds": 3,
@@ -1780,7 +1770,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:09.959409",
-    "last_seen": "2026-03-29T18:48:00.086552",
+    "last_seen": "2026-04-03T14:35:06.631032",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1876,7 +1866,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:14.948437",
-    "last_seen": "2026-03-29T18:48:37.721423",
+    "last_seen": "2026-04-03T14:35:45.339043",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -1901,10 +1891,15 @@
         "value": "Quiet",
         "confidence": 0.8,
         "evidence": "Peaceful Setting"
+      },
+      "property_type": {
+        "value": "Detached",
+        "confidence": 0.7,
+        "evidence": "Period Cottage"
       }
     },
-    "llm_score": 4,
-    "llm_score_percent": 58,
+    "llm_score": 7,
+    "llm_score_percent": 62,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -1915,6 +1910,11 @@
         "feature": "setting",
         "value": "Quiet",
         "score": 2
+      },
+      {
+        "feature": "property_type",
+        "value": "Detached",
+        "score": 3
       }
     ]
   },
@@ -1925,7 +1925,7 @@
     "beds": 3,
     "baths": 3,
     "link": "https://www.rightmove.co.uk/properties/164889206",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/e469e152e/164889206/e469e152e96d46208ad1ce9459756586.jpeg",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/5cef8625b/164889206/5cef8625bd5cdadcc8c17ff900638376.jpeg",
     "full_text": "Key features: - SPACIOUS DETACHED CHALET-STYLE HOUSE IN TOP ADDRESS (1286 square feet). - EXTENSIVE RENOVATION WITH NEW KITCHEN, BATHROOM AND EN-SUITE SHOWER ROOM. - GAS FIRED CENTRAL HEATING SYSTEM, NEW uPVC DOUBLE GLAZING. - DRIVEWAY PARKING/TURNING BAY FOR 3-4 CARS LEADING TO SINGLE INTEGRAL GARAGE. - PRETTY FRONT AND REAR GARDENS - FRONT GIVES 40' DEPTH FROM ROAD. - 'WOW-FACTOR' OPEN-PLAN LIVING AREA. - THREE DOUBLE BEDROOM - ONE WITH EN-SUITE SHOWER ROOM. - SHORT WALK TO NEARBY COUNTRYSIDE FROM THE FRONT DOOR. - SHORT WALK TO SHERBORNE CENTRE AND MAINLINE RAILWAY STATION TO LONDON. - KEENLY PRICED - MUST BE VIEWED!",
     "land": null,
     "garden": "Yes",
@@ -1978,7 +1978,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:19.689868",
-    "last_seen": "2026-03-29T18:50:34.845512",
+    "last_seen": "2026-04-03T14:24:13.400055",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2011,12 +2011,12 @@
       },
       "potential": {
         "value": "Renovation",
-        "confidence": 0.8,
+        "confidence": 0.9,
         "evidence": "- EXTENSIVE RENOVATION WITH NEW KITCHEN, BATHROOM AND EN-SUITE SHOWER ROOM."
       },
       "setting": {
         "value": "Countryside",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "- SHORT WALK TO NEARBY COUNTRYSIDE FROM THE FRONT DOOR."
       },
       "property_type": {
@@ -2135,7 +2135,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:24.647083",
-    "last_seen": "2026-03-29T18:51:53.807849",
+    "last_seen": "2026-04-03T14:39:10.760686",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2164,7 +2164,7 @@
       "setting": {
         "value": "Quiet",
         "confidence": 0.6,
-        "evidence": "POSSIBLY THE MOST POPULAR ADDRESS IN SHERBORNE! - SHORT WALK TO SHERBORNE CENTRE"
+        "evidence": "POSSIBLY THE MOST POPULAR ADDRESS IN SHERBORNE"
       },
       "outlook": {
         "value": "Views",
@@ -2265,7 +2265,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:29.952964",
-    "last_seen": "2026-03-29T18:49:54.217083",
+    "last_seen": "2026-04-03T14:37:06.319227",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2291,6 +2291,11 @@
         "confidence": 0.9,
         "evidence": "Double carport"
       },
+      "setting": {
+        "value": "Quiet",
+        "confidence": 0.5,
+        "evidence": "Convenient location"
+      },
       "outlook": {
         "value": "Views",
         "confidence": 1.0,
@@ -2302,8 +2307,8 @@
         "evidence": "Fully refurbished"
       }
     },
-    "llm_score": 5,
-    "llm_score_percent": 59,
+    "llm_score": 7,
+    "llm_score_percent": 62,
     "llm_score_breakdown": [
       {
         "feature": "property_size",
@@ -2313,6 +2318,11 @@
       {
         "feature": "parking",
         "value": "Driveway",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Quiet",
         "score": 2
       },
       {
@@ -2334,7 +2344,7 @@
     "beds": 3,
     "baths": 3,
     "link": "https://www.rightmove.co.uk/properties/172863947",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/461e7295f/172863947/461e7295ff7a26701dcfcc3a7e093d6b.jpeg",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/2fa7cd430/172863947/2fa7cd4304a1cec3ac26c6f6eb041fd6.jpeg",
     "full_text": "Key features: - MODERN PERIOD-STYLE CHARACTER SEMI-DETACHED THATCHED COTTAGE. - DECEPTIVELY SPACIOUS ACCOMMODATION EXTENDING TO 1996 SQUARE FEET. - DOUBLE GARAGE PLUS PARKING. - LARGE LEVEL REAR GARDEN ENJOYING AN EASTERLY ASPECT. - DOUBLE GLAZING, OIL FIRED CENTRAL HEATING PLUS HAMSTONE OPEN FIREPLACE. - THREE DOUBLE BEDROOMS. - LARGE MASTER BEDROOM WITH EN-SUITE BATHROOM AND DRESSING ROOM. - TOP DORSET VILLAGE ADDRESS IN THE PRETTY HEART. - WALKING DISTANCE OF VILLAGE PUB, SHOP, VILLAGE HALL AND PRIMARY SCHOOL. - VACANT - NO FURTHER CHAIN.",
     "land": null,
     "garden": "Yes",
@@ -2377,7 +2387,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:35.106177",
-    "last_seen": "2026-03-29T18:51:14.600325",
+    "last_seen": "2026-04-03T14:37:50.036113",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2507,7 +2517,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:40.598301",
-    "last_seen": "2026-03-29T18:49:15.090403",
+    "last_seen": "2026-04-03T14:38:29.038183",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2622,7 +2632,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:46.131764",
-    "last_seen": "2026-03-29T18:53:59.362609",
+    "last_seen": "2026-04-03T14:39:51.097384",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2729,7 +2739,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:50.889316",
-    "last_seen": "2026-03-29T18:52:31.512160",
+    "last_seen": "2026-04-03T14:40:42.456233",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2755,24 +2765,14 @@
         "confidence": 0.8,
         "evidence": "ample parking"
       },
-      "outbuildings": {
-        "value": "Outbuilding",
-        "confidence": 0.7,
-        "evidence": "Substantial stone barn offering flexible use"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.8,
-        "evidence": "Unique two bedroom barn conversion"
-      },
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.6,
         "evidence": "Well presented and thoughtfully laid out"
       }
     },
-    "llm_score": 4,
-    "llm_score_percent": 58,
+    "llm_score": -1,
+    "llm_score_percent": 51,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -2783,16 +2783,6 @@
         "feature": "parking",
         "value": "Yes",
         "score": 1
-      },
-      {
-        "feature": "outbuildings",
-        "value": "Outbuilding",
-        "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
       },
       {
         "feature": "condition",
@@ -2855,7 +2845,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:39:55.938568",
-    "last_seen": "2026-03-29T18:53:09.761811",
+    "last_seen": "2026-04-03T14:41:23.439201",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -2883,17 +2873,17 @@
       },
       "setting": {
         "value": "Private",
-        "confidence": 0.7,
-        "evidence": "Exclusive courtyard development, Private gardens"
+        "confidence": 0.8,
+        "evidence": "Private gardens, Exclusive courtyard development"
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.6,
-        "evidence": "Beautiful three bedroom home, Exclusive courtyard development"
+        "confidence": 0.7,
+        "evidence": "Exclusive courtyard development by renowened developer, Beautiful three bedroom home"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "evidence": "High specification with oak beams and vaulted ceilings, Underfloor heating and integrated Howdens kitchen"
       }
     },
@@ -2928,8 +2918,8 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/172354967": {
-    "price_display": "\u00a3445,000 Guide Price TOWN CENTRE LOCATION",
-    "price": 445000,
+    "price_display": "\u00a3425,000 Guide Price OFF-STREET PARKING",
+    "price": 425000,
     "location": "Westbury, Sherborne, Dorset",
     "beds": 3,
     "baths": 2,
@@ -2974,19 +2964,23 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:12.705163",
-    "last_seen": "2026-03-29T18:54:37.012239",
+    "last_seen": "2026-04-03T14:44:04.761837",
     "status": "active",
     "expired_at": null,
     "price_history": [
       {
         "date": "2026-03-27T18:40:12.705163",
         "price": 445000
+      },
+      {
+        "date": "2026-04-03T14:44:04.761837",
+        "price": 425000
       }
     ],
     "price_change": {
       "previous_price": 445000,
-      "value": 0,
-      "direction": "flat"
+      "value": -20000,
+      "direction": "down"
     },
     "extraction_completeness": 78.6,
     "llm_features": {
@@ -3101,7 +3095,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:17.867531",
-    "last_seen": "2026-03-29T18:55:17.906505",
+    "last_seen": "2026-04-03T14:42:08.443732",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3120,7 +3114,7 @@
       "land": {
         "value": 0.21,
         "confidence": 1.0,
-        "evidence": "LARGE LEVEL PLOT EXTENDING TO JUST UNDER A QUARTER OF AN ACRE (0.21 ACRES)"
+        "evidence": "LARGE LEVEL PLOT EXTENDING TO JUST UNDER A QUARTER OF AN ACRE (0.21 ACRES)."
       },
       "garden": {
         "value": "Large",
@@ -3129,13 +3123,13 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.9,
-        "evidence": "PRIVATE DRIVEWAY PARKING FOR 3-4 CARS PLUS DETACHED GARAGE"
+        "confidence": 0.95,
+        "evidence": "PRIVATE DRIVEWAY PARKING FOR 3-4 CARS PLUS DETACHED GARAGE."
       },
       "potential": {
         "value": "Renovation",
-        "confidence": 1.0,
-        "evidence": "THE SUBJECT OF FULL RENOVATION"
+        "confidence": 0.95,
+        "evidence": "THE SUBJECT OF FULL RENOVATION!"
       },
       "setting": {
         "value": "Quiet",
@@ -3145,7 +3139,7 @@
       "outlook": {
         "value": "Views",
         "confidence": 0.6,
-        "evidence": "REAR BOASTS A SUNNY WESTERLY ASPECT"
+        "evidence": "REAR BOASTS A SUNNY WESTERLY ASPECT."
       },
       "property_type": {
         "value": "Detached",
@@ -3155,7 +3149,7 @@
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
-        "evidence": "TASTEFUL NEW KITCHEN AND BATHROOMS PLUS GROUND FLOOR SHOWER ROOM"
+        "evidence": "TASTEFUL NEW KITCHEN AND BATHROOMS PLUS GROUND FLOOR SHOWER ROOM."
       }
     },
     "llm_score": 22,
@@ -3246,7 +3240,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:23.146422",
-    "last_seen": "2026-03-29T18:55:55.358257",
+    "last_seen": "2026-04-03T14:42:47.068326",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3351,7 +3345,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:28.616900",
-    "last_seen": "2026-03-29T18:56:33.048461",
+    "last_seen": "2026-04-03T14:44:44.030175",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3430,7 +3424,7 @@
     "beds": 2,
     "baths": 2,
     "link": "https://www.rightmove.co.uk/properties/172108520",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/db05f2683/172108520/db05f2683f6b9374cf97ddfc9f705202.jpeg",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/6f1389501/172108520/6f1389501d6bfc50066e3b0f3310bc29.jpeg",
     "full_text": "Key features: - Semi detached property - Two reception rooms - Two double bedrooms - Utility room - South facing garden - Garage and driveway - No onward chain",
     "land": null,
     "garden": "Yes",
@@ -3470,7 +3464,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:34.098165",
-    "last_seen": "2026-03-29T18:57:10.515217",
+    "last_seen": "2026-04-03T14:43:25.601188",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3567,7 +3561,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:39.298108",
-    "last_seen": "2026-03-29T18:57:48.393505",
+    "last_seen": "2026-04-03T14:45:25.165514",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3584,9 +3578,14 @@
     "extraction_completeness": 78.6,
     "llm_features": {
       "parking": {
-        "value": "Garage",
+        "value": "Driveway",
         "confidence": 0.9,
         "evidence": "- Driveway Parking - Single Garage"
+      },
+      "outbuildings": {
+        "value": "Outbuilding",
+        "confidence": 0.7,
+        "evidence": "- Single Garage"
       },
       "setting": {
         "value": "Quiet",
@@ -3600,17 +3599,22 @@
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
+        "confidence": 0.8,
         "evidence": "- Beautifully Presented Throughout - Air Sourced Heat Pump - 8 Years Development Warranty"
       }
     },
-    "llm_score": 4,
-    "llm_score_percent": 58,
+    "llm_score": 5,
+    "llm_score_percent": 59,
     "llm_score_breakdown": [
       {
         "feature": "parking",
-        "value": "Garage",
-        "score": 3
+        "value": "Driveway",
+        "score": 2
+      },
+      {
+        "feature": "outbuildings",
+        "value": "Outbuilding",
+        "score": 2
       },
       {
         "feature": "setting",
@@ -3677,7 +3681,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:44.173002",
-    "last_seen": "2026-03-29T19:01:46.229446",
+    "last_seen": "2026-04-03T14:48:39.682138",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3705,7 +3709,7 @@
       },
       "outbuildings": {
         "value": "Outbuilding",
-        "confidence": 0.85,
+        "confidence": 0.9,
         "evidence": "Timber Cabin"
       },
       "property_type": {
@@ -3792,8 +3796,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:49.340781",
     "last_seen": "2026-03-29T19:00:30.359965",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:40:49.340781",
@@ -3913,7 +3917,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:54.648258",
-    "last_seen": "2026-03-29T19:01:08.273582",
+    "last_seen": "2026-04-03T14:49:19.129667",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -3942,7 +3946,7 @@
       "property_type": {
         "value": "Detached",
         "confidence": 0.5,
-        "evidence": "- Driveway & Garage (implied detached)"
+        "evidence": "- Freehold (implied standalone property)"
       }
     },
     "llm_score": 8,
@@ -4016,7 +4020,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:40:59.780176",
-    "last_seen": "2026-03-29T18:58:28.472928",
+    "last_seen": "2026-04-03T14:46:43.096070",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4039,7 +4043,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "evidence": "Spacious driveway and detached link garage"
       },
       "potential": {
@@ -4121,7 +4125,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:04.708776",
-    "last_seen": "2026-03-29T18:59:09.592545",
+    "last_seen": "2026-04-03T14:46:04.514087",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4243,7 +4247,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:09.757793",
-    "last_seen": "2026-03-29T18:59:51.743952",
+    "last_seen": "2026-04-03T14:50:02.499363",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4271,12 +4275,12 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "- SINGLE GARAGE PLUS DRIVEWAY PARKING FOR 2-3 CARS."
       },
       "setting": {
         "value": "Countryside",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "- EDGE-OF-VILLAGE LOCATION, SHORT WALK TO GOOD VILLAGE AMENITIES, PUB, SHOP."
       },
       "outlook": {
@@ -4287,7 +4291,7 @@
       "property_type": {
         "value": "Semi-Detached",
         "confidence": 1.0,
-        "evidence": "- SMART SEMI-DETACHED HOUSE IN EXCLUSIVE CUL-DE-SAC ADDRESS (1324 square feet)."
+        "evidence": "- SMART SEMI-DETACHED HOUSE IN EXCLUSIVE CUL-DE-SAC ADDRESS"
       },
       "condition": {
         "value": "NewBuild",
@@ -4380,7 +4384,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:14.755795",
-    "last_seen": "2026-03-29T19:02:24.824850",
+    "last_seen": "2026-04-03T14:47:21.570994",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4395,62 +4399,10 @@
       "direction": "flat"
     },
     "extraction_completeness": 78.6,
-    "llm_features": {
-      "garden": {
-        "value": "Large",
-        "confidence": 1.0,
-        "evidence": "Large Garden"
-      },
-      "parking": {
-        "value": "Driveway",
-        "confidence": 0.9,
-        "evidence": "Off Street Parking"
-      },
-      "setting": {
-        "value": "Quiet",
-        "confidence": 0.7,
-        "evidence": "Desirable Location"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 1.0,
-        "evidence": "Detached"
-      },
-      "condition": {
-        "value": "LowMaintenance",
-        "confidence": 0.8,
-        "evidence": "Newly Refurbished"
-      }
-    },
-    "llm_score": 8,
-    "llm_score_percent": 63,
-    "llm_score_breakdown": [
-      {
-        "feature": "garden",
-        "value": "Large",
-        "score": 5
-      },
-      {
-        "feature": "parking",
-        "value": "Driveway",
-        "score": 2
-      },
-      {
-        "feature": "setting",
-        "value": "Quiet",
-        "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
-      },
-      {
-        "feature": "condition",
-        "value": "LowMaintenance",
-        "score": -4
-      }
-    ]
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
   },
   "https://www.rightmove.co.uk/properties/169538414": {
     "price_display": "\u00a3400,000",
@@ -4494,7 +4446,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:20.295963",
-    "last_seen": "2026-03-29T19:03:02.375699",
+    "last_seen": "2026-04-03T14:48:00.643889",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4517,7 +4469,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "- Driveway & Garage"
       },
       "setting": {
@@ -4527,7 +4479,7 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "- Detached Cottage"
       }
     },
@@ -4616,7 +4568,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:46.517205",
-    "last_seen": "2026-03-29T19:33:20.656491",
+    "last_seen": "2026-04-03T15:21:05.978846",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4724,7 +4676,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:51.771454",
-    "last_seen": "2026-03-29T19:04:42.090149",
+    "last_seen": "2026-04-03T14:51:42.812051",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -4837,8 +4789,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:41:57.129144",
     "last_seen": "2026-03-29T19:05:20.582943",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:41:57.129144",
@@ -4977,7 +4929,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:01.991336",
-    "last_seen": "2026-03-29T19:05:58.496813",
+    "last_seen": "2026-04-03T14:52:21.464276",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5021,11 +4973,11 @@
       "property_type": {
         "value": "Detached",
         "confidence": 1.0,
-        "evidence": "Charming three-bedroom detached home"
+        "evidence": "Charming three-bedroom detached home, Detached family home"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.6,
+        "confidence": 0.8,
         "evidence": "Well-maintained gardens"
       }
     },
@@ -5120,7 +5072,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:07.479892",
-    "last_seen": "2026-03-29T19:06:36.556372",
+    "last_seen": "2026-04-03T14:53:00.530859",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5139,37 +5091,37 @@
       "garden": {
         "value": "Yes",
         "confidence": 0.9,
-        "evidence": "- Front and rear garden"
+        "evidence": "Front and rear garden"
       },
       "parking": {
         "value": "Yes",
         "confidence": 0.8,
-        "evidence": "- Private parking"
+        "evidence": "Private parking"
       },
       "potential": {
         "value": "Renovation",
         "confidence": 0.9,
-        "evidence": "- Fully renovated with traditional features"
+        "evidence": "Fully renovated with traditional features"
       },
       "setting": {
         "value": "Private",
         "confidence": 0.9,
-        "evidence": "- Tucked away from main road"
+        "evidence": "Tucked away from main road"
       },
       "outlook": {
         "value": "Views",
         "confidence": 0.9,
-        "evidence": "- Elevated position with views over village"
+        "evidence": "Elevated position with views over village"
       },
       "property_type": {
         "value": "Detached",
         "confidence": 0.7,
-        "evidence": "- Charming three bedroom stone cottage"
+        "evidence": "Charming three bedroom stone cottage"
       },
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.6,
-        "evidence": "- Fully renovated with traditional features"
+        "evidence": "Fully renovated with traditional features"
       }
     },
     "llm_score": 9,
@@ -5262,7 +5214,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:12.547418",
-    "last_seen": "2026-03-29T19:07:14.708448",
+    "last_seen": "2026-04-03T14:53:40.508194",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5295,8 +5247,8 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.6,
-        "evidence": "Freehold, Grade II Listed Characterful Village Home"
+        "confidence": 0.8,
+        "evidence": "Grade II Listed Characterful Village Home"
       }
     },
     "llm_score": 9,
@@ -5374,7 +5326,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:18.243290",
-    "last_seen": "2026-03-29T19:07:53.007784",
+    "last_seen": "2026-04-03T14:54:19.490876",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5397,7 +5349,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "evidence": "Off Street Parking for Several Vehicles - Stone Built Garage"
       },
       "potential": {
@@ -5486,7 +5438,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:23.209281",
-    "last_seen": "2026-03-29T19:08:30.971100",
+    "last_seen": "2026-04-03T14:54:58.198991",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5586,7 +5538,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:28.608012",
-    "last_seen": "2026-03-29T19:09:09.086829",
+    "last_seen": "2026-04-03T14:55:39.395683",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5609,7 +5561,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "Parking and double garage"
       },
       "potential": {
@@ -5708,7 +5660,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:33.417793",
-    "last_seen": "2026-03-29T19:09:49.728489",
+    "last_seen": "2026-04-03T14:56:19.962439",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5746,13 +5698,13 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.8,
+        "confidence": 0.7,
         "evidence": "Two staircases providing privacy and flexibility, ideal for guests or Airbnb"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
-        "evidence": "Lovingly modernised with a blend of traditional and contemporary features"
+        "confidence": 0.6,
+        "evidence": "Lovingly modernised with a blend of traditional and contemporary features; Well-maintained gardens"
       }
     },
     "llm_score": 8,
@@ -5840,7 +5792,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:38.301119",
-    "last_seen": "2026-03-29T19:10:27.818009",
+    "last_seen": "2026-04-03T14:57:40.372646",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -5870,15 +5822,10 @@
         "value": "Quiet",
         "confidence": 0.95,
         "evidence": "Quiet cul de sac position"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.7,
-        "evidence": "Single integrated garage - Large driveway with parking for several vehicles (implies detached, but not explicitly stated)"
       }
     },
-    "llm_score": 10,
-    "llm_score_percent": 66,
+    "llm_score": 7,
+    "llm_score_percent": 62,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -5894,11 +5841,6 @@
         "feature": "setting",
         "value": "Quiet",
         "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
       }
     ]
   },
@@ -5957,7 +5899,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:43.957111",
-    "last_seen": "2026-03-29T19:11:05.965603",
+    "last_seen": "2026-04-03T14:57:01.813077",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6084,7 +6026,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:42:50.042473",
-    "last_seen": "2026-03-29T19:11:44.003697",
+    "last_seen": "2026-04-03T14:58:20.065481",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6289,7 +6231,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:00.794717",
-    "last_seen": "2026-03-29T19:13:01.552411",
+    "last_seen": "2026-04-03T14:59:38.204055",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6313,7 +6255,7 @@
       "setting": {
         "value": "Quiet",
         "confidence": 0.5,
-        "evidence": "Great Location Close to Railway Station"
+        "evidence": "- Great Location Close to Railway Station"
       },
       "property_type": {
         "value": "Detached",
@@ -6386,7 +6328,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:06.242470",
-    "last_seen": "2026-03-29T19:13:39.030954",
+    "last_seen": "2026-04-03T15:02:17.642416",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6498,7 +6440,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:11.301029",
-    "last_seen": "2026-03-29T19:14:17.475653",
+    "last_seen": "2026-04-03T15:00:19.061142",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6623,7 +6565,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:16.922561",
-    "last_seen": "2026-03-29T19:12:23.441767",
+    "last_seen": "2026-04-03T14:58:59.653071",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6645,13 +6587,13 @@
         "evidence": "Attractive Stonewalled West-Facing Courtyard Garden"
       },
       "parking": {
-        "value": "Yes",
-        "confidence": 0.8,
+        "value": "Driveway",
+        "confidence": 0.9,
         "evidence": "Off Street Parking"
       },
       "outbuildings": {
         "value": "Outbuilding",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "Attached ARTIST STUDIO"
       },
       "setting": {
@@ -6665,8 +6607,8 @@
         "evidence": "17th Century Character Country Home"
       }
     },
-    "llm_score": 11,
-    "llm_score_percent": 68,
+    "llm_score": 12,
+    "llm_score_percent": 69,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -6675,8 +6617,8 @@
       },
       {
         "feature": "parking",
-        "value": "Yes",
-        "score": 1
+        "value": "Driveway",
+        "score": 2
       },
       {
         "feature": "outbuildings",
@@ -6749,8 +6691,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:22.202181",
     "last_seen": "2026-03-29T19:14:55.539155",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:43:22.202181",
@@ -6862,7 +6804,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:27.466711",
-    "last_seen": "2026-03-29T19:15:33.535359",
+    "last_seen": "2026-04-03T15:00:58.437076",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -6890,12 +6832,12 @@
       },
       "setting": {
         "value": "Rural",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "evidence": "Wonderful Rural Outlook"
       },
       "outlook": {
         "value": "Views",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "Wonderful Rural Outlook"
       },
       "property_type": {
@@ -6994,7 +6936,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:32.622507",
-    "last_seen": "2026-03-29T19:16:13.436350",
+    "last_seen": "2026-04-03T15:01:38.589718",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7013,22 +6955,22 @@
       "property_size": {
         "value": 5500,
         "confidence": 0.95,
-        "evidence": "Over 5500 Sqft Grade II Listed Public House"
+        "evidence": "- Over 5500 Sqft Grade II Listed Public House"
       },
       "garden": {
         "value": "Yes",
         "confidence": 0.8,
-        "evidence": "Beer Garden With Hard Standing, Vegetable Garden"
+        "evidence": "- Beer Garden With Hard Standing, Vegetable Garden"
       },
       "outbuildings": {
         "value": "Outbuilding",
         "confidence": 0.9,
-        "evidence": "Large 50' Outbuilding With 22' Vaulted Ceiling"
+        "evidence": "- Large 50' Outbuilding With 22' Vaulted Ceiling, Renovated With Insulated Roof"
       },
       "potential": {
         "value": "Renovation",
-        "confidence": 0.7,
-        "evidence": "Freehold Investment Potential - Undeveloped Cellar Rooms & Three Roomed Loft"
+        "confidence": 0.85,
+        "evidence": "- Freehold Investment Potential - Undeveloped Cellar Rooms & Three Roomed Loft - Huge Potential"
       }
     },
     "llm_score": 10,
@@ -7057,13 +6999,13 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/172413836": {
-    "price_display": "\u00a3490,000",
-    "price": 490000,
+    "price_display": "\u00a3475,000",
+    "price": 475000,
     "location": "Keyford Terrace, Frome",
     "beds": 3,
     "baths": 3,
     "link": "https://www.rightmove.co.uk/properties/172413836",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/7f210010b/172413836/7f210010bd33155cc7675a7e3f14e8cf.jpeg",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/7b8111c9e/172413836/7b8111c9ea2c4282e6cba166cebc212a.jpeg",
     "full_text": "Key features: - Stunning Period Property - Full Recent Overhaul and Improvement - Three Bedrooms - Three Bathrooms - Driveway Parking - Grade 2 Listed",
     "land": null,
     "garden": null,
@@ -7102,19 +7044,23 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:37.903070",
-    "last_seen": "2026-03-29T19:17:28.519277",
+    "last_seen": "2026-04-03T15:06:51.091800",
     "status": "active",
     "expired_at": null,
     "price_history": [
       {
         "date": "2026-03-27T18:43:37.903070",
         "price": 490000
+      },
+      {
+        "date": "2026-04-03T15:06:51.091800",
+        "price": 475000
       }
     ],
     "price_change": {
       "previous_price": 490000,
-      "value": 0,
-      "direction": "flat"
+      "value": -15000,
+      "direction": "down"
     },
     "extraction_completeness": 78.6,
     "llm_features": {
@@ -7202,7 +7148,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:43.072077",
-    "last_seen": "2026-03-29T19:16:50.776242",
+    "last_seen": "2026-04-03T15:03:35.135489",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7277,7 +7223,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:48.131314",
-    "last_seen": "2026-03-29T19:18:07.363974",
+    "last_seen": "2026-04-03T15:04:15.107011",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7301,7 +7247,7 @@
       "parking": {
         "value": "Garage",
         "confidence": 1.0,
-        "evidence": "Rare Parking & Garage Perks \u2013 Off-street parking and a double garage with electric doors"
+        "evidence": "Off-street parking and a double garage with electric doors"
       },
       "outbuildings": {
         "value": "Workshop",
@@ -7311,12 +7257,12 @@
       "setting": {
         "value": "Quiet",
         "confidence": 0.7,
-        "evidence": "Private Garden Oasis \u2013 Enjoy patio areas... perfect for relaxing... or simply soaking up the calm"
+        "evidence": "Private Garden Oasis \u2013 Enjoy patio areas... perfect for relaxing... soaking up the calm"
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.8,
-        "evidence": "Four Floors of Curiosity \u2013 Explore flexible and adventurous living spaces across four levels, including a basement"
+        "confidence": 0.6,
+        "evidence": "Storybook Character at Every Turn \u2013 A period home dating back to 1896"
       }
     },
     "llm_score": 12,
@@ -7391,8 +7337,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:43:53.028785",
     "last_seen": "2026-03-29T19:18:45.666102",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:43:53.028785",
@@ -7508,8 +7454,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:20.315928",
     "last_seen": "2026-03-29T19:23:13.327655",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:44:20.315928",
@@ -7635,7 +7581,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:26.195536",
-    "last_seen": "2026-03-29T19:23:51.053026",
+    "last_seen": "2026-04-03T15:10:09.798235",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7724,7 +7670,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:31.742728",
-    "last_seen": "2026-03-29T19:20:42.120251",
+    "last_seen": "2026-04-03T15:06:12.849869",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7739,10 +7685,22 @@
       "direction": "flat"
     },
     "extraction_completeness": 78.6,
-    "llm_features": null,
-    "llm_score": null,
-    "llm_score_percent": null,
-    "llm_score_breakdown": []
+    "llm_features": {
+      "garden": {
+        "value": "Large",
+        "confidence": 0.9,
+        "evidence": "Impressive rear garden with patio, lawn and fruit trees"
+      }
+    },
+    "llm_score": 5,
+    "llm_score_percent": 59,
+    "llm_score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "Large",
+        "score": 5
+      }
+    ]
   },
   "https://www.rightmove.co.uk/properties/164016125": {
     "price_display": "\u00a3475,000 THREE-STOREY LIVING",
@@ -7790,7 +7748,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:37.021823",
-    "last_seen": "2026-03-29T19:22:34.807021",
+    "last_seen": "2026-04-03T15:08:49.496296",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7805,62 +7763,10 @@
       "direction": "flat"
     },
     "extraction_completeness": 85.7,
-    "llm_features": {
-      "garden": {
-        "value": "Yes",
-        "confidence": 0.9,
-        "evidence": "Private garden with Separate GARDEN STUDIO"
-      },
-      "parking": {
-        "value": "Garage",
-        "confidence": 1.0,
-        "evidence": "Garage providing secure parking or extra storage"
-      },
-      "outbuildings": {
-        "value": "Outbuilding",
-        "confidence": 0.9,
-        "evidence": "Separate GARDEN STUDIO"
-      },
-      "setting": {
-        "value": "Quiet",
-        "confidence": 0.7,
-        "evidence": "Outskirts of Frome Town Centre"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.8,
-        "evidence": "Fantastic Victorian Red Brick Family Home"
-      }
-    },
-    "llm_score": 12,
-    "llm_score_percent": 69,
-    "llm_score_breakdown": [
-      {
-        "feature": "garden",
-        "value": "Yes",
-        "score": 2
-      },
-      {
-        "feature": "parking",
-        "value": "Garage",
-        "score": 3
-      },
-      {
-        "feature": "outbuildings",
-        "value": "Outbuilding",
-        "score": 2
-      },
-      {
-        "feature": "setting",
-        "value": "Quiet",
-        "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
-      }
-    ]
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
   },
   "https://www.rightmove.co.uk/properties/166822886": {
     "price_display": "\u00a3475,000 PERIOD FEATURES",
@@ -7908,7 +7814,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:42.117090",
-    "last_seen": "2026-03-29T19:21:19.235543",
+    "last_seen": "2026-04-03T15:05:34.056685",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -7997,7 +7903,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:47.264837",
-    "last_seen": "2026-03-29T19:21:56.901472",
+    "last_seen": "2026-04-03T15:09:30.482923",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8109,7 +8015,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:52.569762",
-    "last_seen": "2026-03-29T19:19:24.170868",
+    "last_seen": "2026-04-03T15:04:54.632420",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8137,17 +8043,17 @@
       },
       "setting": {
         "value": "Quiet",
-        "confidence": 0.8,
+        "confidence": 0.9,
         "evidence": "Sought after and peaceful village"
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.6,
+        "confidence": 0.5,
         "evidence": "Beautifully presented period home"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
+        "confidence": 0.8,
         "evidence": "Immaculate"
       }
     },
@@ -8182,7 +8088,7 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/173644415": {
-    "price_display": "\u00a3465,000 Offers in Excess of",
+    "price_display": "\u00a3465,000 Offers in Excess of CONSERVATION AREA",
     "price": 465000,
     "location": "Wine Street, Frome, Somerset, BA11",
     "beds": 3,
@@ -8217,7 +8123,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:44:57.969124",
-    "last_seen": "2026-03-29T19:04:04.004454",
+    "last_seen": "2026-04-03T15:10:47.704374",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8282,7 +8188,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:03.419870",
-    "last_seen": "2026-03-29T19:24:28.403509",
+    "last_seen": "2026-04-03T15:11:25.888315",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8352,7 +8258,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:08.979811",
-    "last_seen": "2026-03-29T19:25:06.808973",
+    "last_seen": "2026-04-03T15:12:07.666863",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8476,7 +8382,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:14.404246",
-    "last_seen": "2026-03-29T19:25:44.684703",
+    "last_seen": "2026-04-03T15:12:47.066024",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8514,7 +8420,7 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "evidence": "Character Property"
       }
     },
@@ -8583,7 +8489,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:20.044771",
-    "last_seen": "2026-03-29T19:26:22.901057",
+    "last_seen": "2026-04-03T15:16:03.486395",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8606,7 +8512,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 1.0,
+        "confidence": 0.9,
         "evidence": "Garaging"
       },
       "setting": {
@@ -8680,7 +8586,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:25.423236",
-    "last_seen": "2026-03-29T19:28:17.272954",
+    "last_seen": "2026-04-03T15:15:24.923778",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8711,14 +8617,19 @@
         "confidence": 0.6,
         "evidence": "- Village Centre Location"
       },
+      "property_type": {
+        "value": "Detached",
+        "confidence": 0.5,
+        "evidence": "- character cottage"
+      },
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
         "evidence": "- Fully renovated character cottage"
       }
     },
-    "llm_score": 2,
-    "llm_score_percent": 55,
+    "llm_score": 5,
+    "llm_score_percent": 59,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -8734,6 +8645,11 @@
         "feature": "setting",
         "value": "Quiet",
         "score": 2
+      },
+      {
+        "feature": "property_type",
+        "value": "Detached",
+        "score": 3
       },
       {
         "feature": "condition",
@@ -8790,7 +8706,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:30.785389",
-    "last_seen": "2026-03-29T19:27:00.672854",
+    "last_seen": "2026-04-03T15:14:45.505569",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8895,7 +8811,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:36.548293",
-    "last_seen": "2026-03-29T19:27:38.593383",
+    "last_seen": "2026-04-03T15:14:06.676307",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -8913,7 +8829,7 @@
     "llm_features": {
       "parking": {
         "value": "Garage",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "evidence": "Driveway and garage"
       },
       "potential": {
@@ -9018,7 +8934,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:41.745803",
-    "last_seen": "2026-03-29T19:28:55.588027",
+    "last_seen": "2026-04-03T15:13:26.583359",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9039,19 +8955,14 @@
         "confidence": 0.95,
         "evidence": "Over Half An Acre"
       },
-      "garden": {
-        "value": "Large",
-        "confidence": 0.7,
-        "evidence": "Over Half An Acre"
-      },
       "potential": {
         "value": "Extension",
-        "confidence": 0.6,
+        "confidence": 0.7,
         "evidence": "Full Planning Permission Approved"
       },
       "setting": {
-        "value": "Countryside",
-        "confidence": 0.7,
+        "value": "Rural",
+        "confidence": 0.6,
         "evidence": "Fantastic Location Between Frome & Bath"
       },
       "outlook": {
@@ -9065,18 +8976,13 @@
         "evidence": "Charming Grade II listed house"
       }
     },
-    "llm_score": 25,
-    "llm_score_percent": 87,
+    "llm_score": 20,
+    "llm_score_percent": 80,
     "llm_score_breakdown": [
       {
         "feature": "land",
         "value": 0.5,
         "score": 8
-      },
-      {
-        "feature": "garden",
-        "value": "Large",
-        "score": 5
       },
       {
         "feature": "potential",
@@ -9085,7 +8991,7 @@
       },
       {
         "feature": "setting",
-        "value": "Countryside",
+        "value": "Rural",
         "score": 3
       },
       {
@@ -9143,7 +9049,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:47.225056",
-    "last_seen": "2026-03-29T19:29:33.741136",
+    "last_seen": "2026-04-03T15:16:44.124186",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9166,7 +9072,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "evidence": "Double garage and driveway parking"
       },
       "setting": {
@@ -9238,7 +9144,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:52.193338",
-    "last_seen": "2026-03-29T19:30:11.140029",
+    "last_seen": "2026-04-03T15:17:26.914255",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9305,7 +9211,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:45:57.235420",
-    "last_seen": "2026-03-29T19:30:49.586271",
+    "last_seen": "2026-04-03T15:18:29.587338",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9320,52 +9226,10 @@
       "direction": "flat"
     },
     "extraction_completeness": 85.7,
-    "llm_features": {
-      "garden": {
-        "value": "Yes",
-        "confidence": 0.9,
-        "evidence": "Landscaped Garden"
-      },
-      "parking": {
-        "value": "Driveway",
-        "confidence": 1.0,
-        "evidence": "Driveway Parking"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.7,
-        "evidence": "Contemporary Designed New Build House"
-      },
-      "condition": {
-        "value": "NewBuild",
-        "confidence": 1.0,
-        "evidence": "Contemporary Designed New Build House"
-      }
-    },
-    "llm_score": 2,
-    "llm_score_percent": 55,
-    "llm_score_breakdown": [
-      {
-        "feature": "garden",
-        "value": "Yes",
-        "score": 2
-      },
-      {
-        "feature": "parking",
-        "value": "Driveway",
-        "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
-      },
-      {
-        "feature": "condition",
-        "value": "NewBuild",
-        "score": -5
-      }
-    ]
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
   },
   "https://www.rightmove.co.uk/properties/173187350": {
     "price_display": "\u00a3425,000",
@@ -9418,7 +9282,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:02.159299",
-    "last_seen": "2026-03-29T19:32:04.874280",
+    "last_seen": "2026-04-03T15:19:46.800295",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9448,15 +9312,10 @@
         "value": "Rural",
         "confidence": 0.8,
         "evidence": "Access to rural walks"
-      },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.5,
-        "evidence": "Character Home"
       }
     },
-    "llm_score": 14,
-    "llm_score_percent": 72,
+    "llm_score": 11,
+    "llm_score_percent": 68,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -9471,11 +9330,6 @@
       {
         "feature": "setting",
         "value": "Rural",
-        "score": 3
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
         "score": 3
       }
     ]
@@ -9530,7 +9384,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:07.501550",
-    "last_seen": "2026-03-29T19:31:27.189730",
+    "last_seen": "2026-04-03T15:19:08.691467",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9642,7 +9496,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:12.744674",
-    "last_seen": "2026-03-29T19:32:42.767342",
+    "last_seen": "2026-04-03T15:20:26.713000",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9665,12 +9519,12 @@
       },
       "setting": {
         "value": "Quiet",
-        "confidence": 0.95,
+        "confidence": 0.9,
         "evidence": "- Quiet cul-de-sac location"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.8,
+        "confidence": 0.7,
         "evidence": "- Modern kitchen and recently fitted shower room"
       }
     },
@@ -9695,7 +9549,7 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/169564760": {
-    "price_display": "\u00a3419,950 CLOSE TO PARK",
+    "price_display": "\u00a3419,950 VILLAGE LOCATION",
     "price": 419950,
     "location": "Mendip Gardens, Holcombe",
     "beds": 3,
@@ -9739,7 +9593,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:24.708445",
-    "last_seen": "2026-03-29T19:33:57.908798",
+    "last_seen": "2026-04-03T15:21:46.481513",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9767,7 +9621,7 @@
       },
       "setting": {
         "value": "Private",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "Private and enclosed South facing garden"
       }
     },
@@ -9841,7 +9695,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:39.633799",
-    "last_seen": "2026-03-29T19:34:36.805668",
+    "last_seen": "2026-04-03T15:22:25.431381",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -9904,21 +9758,21 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/172451567": {
-    "price_display": "\u00a3415,000 OPEN DAY",
-    "price": 415000,
+    "price_display": "\u00a3415,000 10 YEAR WARRANTY",
+    "price": 41500010,
     "location": "Sandys Hill Lane, Little Keyford, Frome, BA11 4GD",
     "beds": 3,
     "baths": 3,
     "link": "https://www.rightmove.co.uk/properties/172451567",
     "thumbnail": "https://media.rightmove.co.uk/property-photo/6c8bdfe48/172451567/6c8bdfe48fd68c57ed20ee78d4dc54fd.jpeg",
-    "full_text": "Skip to content\nBuy\nRent\nHouse Prices\nFind Agent\nCommercial\nInspire\nOverseas\nSign in\nSign in\nBuy\nProperty for sale\nNew homes for sale\nProperty valuation\nInvestors\nMortgages\nRent\nProperty to rent\nStudent property to rent\nFind Agent\nFind estate agents\nHouse prices\nSold house prices\nInstant online valuation\nCommercial\nCommercial property to rent\nCommercial property for sale\nAdvertise\nInspire\nMoving stories\nProperty news\nEnergy efficiency\nProperty guides\nHousing trends\nOverseas blog\nMortgage guides\nOverseas\nAll countries\nSpain\nFrance\nPortugal\nItaly\nGreece\nCurrency\nSell Overseas property\nSee similar properties\nClick to open video\nProperty photo 1 of 10.\n1/101\nNEW HOME\nSandys Hill Lane, Little Keyford, Frome, BA11 4GD\n\u00a3415,000\n8 other properties at Keyford Meadows\nView development brochure\nAdded on 24/02/2026\nPROPERTY TYPE\n\nDetached\n\nBEDROOMS\n\n3\n\nBATHROOMS\n\n3\n\nSIZE\n\n1,059 sq ft\n\n98 sq m\n\nTENURE\n\nFreehold\n\n1\n+4\nKey features\nSPRINGTIME OPEN HOUSE EVENT SATURDAY 28th MARCHOpen plan kitchen/diner with integrated appliancesHeating supplied by an energy efficient air-source heat pumpSingle garage and driveway offering off road parking for 2 carsEn-suite to master bedroomA turfed rear gardenSmart meter and smart thermostats2 years 'peace of mind' customer care warranty and 10 year NHBC warrantyPredicated Energy Assessment - BSave up to \u00a31,980* a year on energy bills when you buy new\nDescription\nSPRINGTIME OPEN HOUSE EVENT\n\n\nCelebrate the arrival of spring with us at Keyford Meadows in Frome as we unveil our exciting new phase. Take advantage of early bird access to upcoming plots, learn more about our new plots releases and Curo Create options- giving you the chance to reserve early and personalise your home.\n\n\nSaturday 28th March, 10:30am - 4:00pm\n\n\nBook your appointment today\n\n\n\nPOPULAR DEVELOPMENT\n\n\nBook an appointment with our experienced Sales Negotiators at Keyford Meadows to find your new home with Curo. Location: Sandys Hill Lane, Frome, BA11 4DH. We are open 7 days a week, Monday: 12:30pm - 5:30pm and Tues - Sun: 10:00am - 5:30pm.\n\nPlot 139-The Pensford is a brand new home located at our popular Keyford Meadows development. This high-quality three-bedroom home offers thoughtfully designed space to suit a variety of lifestyles and is built with sustainability in mind.\nOn the ground floor you will find a living room, an open plan kitchen/diner and a downstairs WC. On the first floor, the master bedroom boasts an en-suite shower room and fitted wardrobes. There are two further double bedrooms and a family bathroom with bath.\nExternally, this new home comes with a single garage and driveway offering off-road parking for 2 cars, as well as an electric car charging unit. EPC rated B. Move in by summer 2026.\n\n\nKeyford Meadows\n\n\nKeyford Meadows is a development of one and two bedroom apartments and two, three, four and five bedroom houses. The perfect location for first-time buyers and families alike, Keyford Meadows straddles Sandys Hill Lane in Little Keyford, just on the outskirts of Frome. Homes are built to the highest standard at Keyford Meadows, with sustainability and the environment at the forefront. They will feature either highly efficient gas boilers or air source heat pumps. The design of the homes achieve a reduction in C02 emissions in excess of 10% of the recently updated Building Regulations. This is achieved by increased insulation, lower air tightness and the installation of waste water heat recovery to selected homes. Outside of the homes is an attractive environment that's ecologically rich and diverse with hectares of green space to be explored. Meanwhile, biodiversity in the area shall be greatly enhanced thanks to several features - such as integrated bat and bird boxes - adding to Frome's already wonderful ecosystem, aided by designated wildlife corridors that allow it to flourish.\n\n\n*Curo*\n\n\nAt Curo we build quality, attractive homes designed for modern living, giving you confidence that you're making a great investment in your family's future. We believe a home is more than bricks and mortar; we create thoughtfully designed developments with connections, community and our customers at their heart. We're proud to be a business with social objectives.\n\nThat's why, instead of having shareholders, we re-invest all our profits to achieve our purpose - to create Homes for Good.\n\n\n*Our dedication to you*\n\n\nCuro is a registered developer with the New Homes Quality Board (NHQB), a non-profit organisation dedicated to improving the quality of new homes and customer service provided by developers. They set out requirements for us in terms of the quality of the homes we build, that we offer an inclusive, clear buying process and offer you, the customer, a quality service from start to finish.\n\n\nNew build homes; Greener and Cheaper\n\n\nThe average owner of a New build house is powered by 65% less energy, cutting energy bills by \u00a3165.00 a month. That's an annual saving up to \u00a31,980* on household bills compared to pre-owned homeowners thanks to their in-use energy efficiency.\n\nNew build homes are increasingly more energy efficient. 86% of new build homes in the UK were rated an Energy Performance Certificate (EPC) of an A or B for energy efficiency. A stark contrast to less than 5% of existing homes that reach the same standard.\n\n*New build homes; Greener and Cheaper - HBF watt a save report released August 2024, savings on other property types differ.*The internal imagery is from the four bedroom Ashton show home at Keyford Meadows. Images may include additional features available at extra cost.*The imagery used is from an imaginary viewpoint within an open space area. The purpose is to give a feel for the development and not an accurate description for each property. External materials, finishes and landscaping and the positions of garages may vary throughout the development. Computer generated image is of the Pensford house type. Please note that the property is subject to an annual estate management charge of \u00a3212.00, payable for the upkeep and maintenance of communal areas within the development.\nRead full description\nCOUNCIL TAX\nAsk developer\nPARKING\nYes\nGARDEN\nBack garden\nACCESSIBILITY\nAsk developer\nEnergy Performance Certificate\nUtilities, rights & restrictions\nKeyford Meadows\nAbout this community:\n1-bed apartments to 5-bed family houses\n2 hectares of green open space\nKeyford Meadows will also provide further biodiversity enhancement features, such as integrated bat and bird boxes\nAll of the homes equipped with gas boilers will also be fitted with photovoltaic solar panels which will provide greener electricity\nView brochure\nOther properties in this development\n\u00a3315,000\nSemi-Detached\n3\n3\n\u00a3329,995\nSemi-Detached\n3\n3\n\u00a3334,995\nTerraced\n3\n3\n\u00a3339,995\nEnd of Terrace\n3\n3\n\u00a3479,995\nDetached\n4\n3\n\u00a3500,000\nDetached\n4\n3\n\u00a3540,000\nDetached\n4\n2\n\u00a3565,000\nDetached\n5\n3\nSandys Hill Lane, Little Keyford, Frome, BA11 4GD\nApproximate location\nOpen map\nStreet View\nMy places\nStations\nSchools\n\nAdd an important place to see how long it'd take to get there from our property listings.\n\n__mins\ndriving to your place\n\nCheck how much you can borrow\n\nGet an instant, personalised result:\n\nShow sellers you\u2019re serious\nSecure viewings faster with agents\nNo impact on your credit score\nGet a Mortgage in Principle\nPowered by\nBroadband speed\nRecently sold & under offer\nSee similar nearby properties\nAbout the development\nKeyford Meadows\nSandys Hill Lane, Little Keyford, Frome, BA11 4GD\nAbout Curo Sales\n\nKeyford Meadows is a development of one and two bedroom apartments and two, three, four and five bedroom houses. The perfect location for first-time buyers and families alike, Keyford Meadows straddles Sandys Hill Lane in Little Keyford, just on the outskirts of Frome. Named the number one place to live in the South West by the Sunday Times in 2021, Frome is a vibrant town with a strong sense of identity. Home to a vast number of independent shops, fine food & drink destinations and green spaces, there is a palpable sense of community to the town.\n\nHomes are built to the highest standard at Keyford Meadows, with sustainability and the environment at the forefront. They will feature either highly efficient gas boilers or air source heat pumps as well as photovoltaic solar panels which not only provide a renewable source of energy but can also provide substantial savings on your energy bills. The design of the homes achieve a reduction in C02 emissions in excess of 10% of the recently updated Building Regulations. This is achieved by increased insulation, lower air tightness and the installation of waste water heat recovery to selected homes. Outside of the homes is an attractive environment that's ecologically rich and diverse with hectares of green space to be explored. Meanwhile, biodiversity in the area shall be greatly enhanced thanks to several features - such as integrated bat and bird boxes - adding to Frome's already wonderful ecosystem, aided by designated wildlife corridors that allow it to flourish.\n\nRead more\nMore developments by Curo\n\u00a3285,000 - \u00a3745,000\nMulberry Park Development\nLocation: 10 miles away\n\u00a3205,000 - \u00a3410,000\nLocking Parklands Development\nLocation: 26 miles away\nAffordability\nMonthly repayments\n\u00a31,850\nProperty: \u00a3 415,000\nDeposit: \u00a3 49,995\nInterest rate: 4.5%\nTerm: 30 years\nRecalculate\nGet a Mortgage in Principle\nPowered by\nThese results are estimates and are only intended as a guide. Make sure you obtain accurate figures from your lender before committing to any mortgage. Your home may be repossessed if you do not keep up repayments on a mortgage.\nNotes\nThese notes are private, only you can see them.\nSave note\n\nMARKETED BY\n\nCuro Sales\nSandys Hill Lane, Little Keyford, Frome, BA11 4GD\nMore properties from this developer\nCall developer\nRequest details\nStaying secure when looking for property\n\nEnsure you're up to date with our latest advice on how to avoid fraud or scams when looking for property online.\n\nVisit our security centre to find out more \n\nDisclaimer - Property reference Plot139ThePensford. The information displayed about this property comprises a property advertisement. Rightmove.co.uk makes no warranty as to the accuracy or completeness of the advertisement or any linked or associated information, and Rightmove has no control over the content. This property advertisement does not constitute property particulars. The information is provided and maintained by Curo Sales.\u00a0Please contact the selling agent or developer directly to obtain any information which may be available under the terms of The Energy Performance of Buildings (Certificates and Inspections) (England and Wales) Regulations 2007 or the Home Report if in relation to a residential property in Scotland.\n\n*This is the average speed from the provider with the fastest broadband package available at this postcode. The average speed displayed is based on the download speeds of at least 50% of customers at peak time (8pm to 10pm). Fibre/cable services at the postcode are subject to availability and may differ between properties within a postcode. Speeds can be affected by a range of technical and environmental factors. The speed at the property may be lower than that listed above. You can check the estimated speed and confirm availability to a property prior to purchasing on the broadband provider's website. Providers may increase charges. The information is provided and maintained by Decision Technologies Limited.\n**This is indicative only and based on a 2-person household with multiple devices and simultaneous usage. Broadband performance is affected by multiple factors including number of occupants and devices, simultaneous usage, router range etc. For more information speak to your broadband provider.\n\nMap data \u00a9OpenStreetMap contributors.\n\nDownload the Rightmove app\nResources\nStamp Duty Calculator\nHouse Price Index\nProperty guides\nProperty news\nBuyer guides\nSeller guides\nRenter guides\nLandlord guides\nRemovals\nEnergy efficiency\nMortgage in Principle\nMortgage Calculator\nMortgage guides\nSearch\nSearch homes for sale\nSearch homes for rent\nCommercial for sale\nCommercial to rent\nOverseas homes for sale\nSearch sold house prices\nFind an agent\nStudent accommodation\nRetirement homes\nNew homes\nLocations\nMajor towns and cities in the UK\nLondon\nCornwall\nGlasgow\nCardiff\nEdinburgh\nSpain\nFrance\nPortugal\nRightmove\nTech blog\nAbout\nPress centre\nInvestor relations\nContact us\nCareers\nSign in or create account\nHomeViews\nProfessional\nRightmove Plus\nData Services\nAdvertise on Rightmove\nOverseas agents and developers\nHome and property related services\nAdvertise commercial property\nHomeViews Business Hub\n    \nSite map Help Cookies Safety and Security Terms of Use Privacy Policy New updates\n\nCopyright \u00a9 2000-2026 Rightmove Group Limited. All rights reserved. Rightmove prohibits the scraping of its content. You can find further details here.\n\nSPRINGTIME OPEN HOUSE EVENT SATURDAY 28th MARCH Open plan kitchen/diner with integrated appliances Heating supplied by an energy efficient air-source heat pump Single garage and driveway offering off road parking for 2 cars En-suite to master bedroom A turfed rear garden Smart meter and smart thermostats 2 years 'peace of mind' customer care warranty and 10 year NHBC warranty Predicated Energy Assessment - B Save up to \u00a31,980* a year on energy bills when you buy new\n",
+    "full_text": "Key features: - Garage and driveway offering off-road parking for 2 cars - Open plan kitchen/diner with integrated appliances - Heating supplied by an energy efficient air-source heat pump - Single garage and driveway offering off road parking for 2 cars - En-suite to master bedroom - A turfed rear garden - Smart meter and smart thermostats - 2 years 'peace of mind' customer care warranty and 10 year NHBC warranty - Predicated Energy Assessment - B - Save up to \u00a31,980* a year on energy bills when you buy new",
     "land": null,
     "garden": "Yes",
     "garden_size": null,
     "property_size": "1,059 sq ft\n\n98 sq m",
     "parking": "Garage",
     "key_features": [
-      "SPRINGTIME OPEN HOUSE EVENT SATURDAY 28th MARCH",
+      "Garage and driveway offering off-road parking for 2 cars",
       "Open plan kitchen/diner with integrated appliances",
       "Heating supplied by an energy efficient air-source heat pump",
       "Single garage and driveway offering off road parking for 2 cars",
@@ -9932,8 +9786,8 @@
     "latitude": 51.21515,
     "longitude": -2.33039,
     "source_location": "FROME",
-    "score": 1,
-    "score_percent": 54,
+    "score": 7,
+    "score_percent": 62,
     "score_breakdown": [
       {
         "feature": "property_size",
@@ -9949,45 +9803,33 @@
         "feature": "parking",
         "value": "Garage",
         "score": 3
-      },
-      {
-        "feature": "setting",
-        "value": "Private",
-        "score": 2
-      },
-      {
-        "feature": "outlook",
-        "value": "Views",
-        "score": 3
-      },
-      {
-        "feature": "property_type",
-        "value": "Flat",
-        "score": -6
-      },
-      {
-        "feature": "condition",
-        "value": "NewBuild",
-        "score": -5
       }
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:45.255063",
-    "last_seen": "2026-03-28T14:38:32.624917",
-    "status": "expired",
-    "expired_at": "2026-03-29T20:01:46.038961",
+    "last_seen": "2026-04-03T15:24:17.296932",
+    "status": "active",
+    "expired_at": null,
     "price_history": [
       {
         "date": "2026-03-27T18:46:45.255063",
         "price": 415000
+      },
+      {
+        "date": "2026-04-03T15:24:17.296932",
+        "price": 41500010
       }
     ],
     "price_change": {
       "previous_price": 415000,
-      "value": 0,
-      "direction": "flat"
+      "value": 41085010,
+      "direction": "up"
     },
-    "extraction_completeness": 85.7
+    "extraction_completeness": 85.7,
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
   },
   "https://www.rightmove.co.uk/properties/166600382": {
     "price_display": "\u00a3415,000",
@@ -10040,7 +9882,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:50.322779",
-    "last_seen": "2026-03-29T19:35:23.794342",
+    "last_seen": "2026-04-03T15:23:14.035103",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10113,8 +9955,8 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/171956279": {
-    "price_display": "\u00a3410,000",
-    "price": 410000,
+    "price_display": "\u00a3400,000 Offers in Excess of",
+    "price": 400000,
     "location": "Osprey Road, Warminster",
     "beds": 3,
     "baths": 2,
@@ -10154,19 +9996,23 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:46:55.445637",
-    "last_seen": "2026-03-29T19:36:01.021833",
+    "last_seen": "2026-04-03T15:07:46.546628",
     "status": "active",
     "expired_at": null,
     "price_history": [
       {
         "date": "2026-03-27T18:46:55.445637",
         "price": 410000
+      },
+      {
+        "date": "2026-04-03T15:07:46.546628",
+        "price": 400000
       }
     ],
     "price_change": {
       "previous_price": 410000,
-      "value": 0,
-      "direction": "flat"
+      "value": -10000,
+      "direction": "down"
     },
     "extraction_completeness": 85.7,
     "llm_features": {
@@ -10207,7 +10053,7 @@
     ]
   },
   "https://www.rightmove.co.uk/properties/169198244": {
-    "price_display": "\u00a3400,000 Offers in Excess of GARDEN",
+    "price_display": "\u00a3400,000 Guide Price GARDEN",
     "price": 400000,
     "location": "Chapel Row, Norton St. Philip, Bath",
     "beds": 2,
@@ -10241,7 +10087,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:01.465388",
-    "last_seen": "2026-03-29T19:36:39.268971",
+    "last_seen": "2026-04-03T15:26:55.060245",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10272,19 +10118,14 @@
         "confidence": 0.6,
         "evidence": "Fantastic Village Community"
       },
-      "property_type": {
-        "value": "Detached",
-        "confidence": 0.7,
-        "evidence": "Stunning Two Bedroom Character Cottage"
-      },
       "condition": {
         "value": "LowMaintenance",
         "confidence": 0.7,
         "evidence": "Fully Renovated Throughout"
       }
     },
-    "llm_score": 5,
-    "llm_score_percent": 59,
+    "llm_score": 2,
+    "llm_score_percent": 55,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -10300,11 +10141,6 @@
         "feature": "setting",
         "value": "Quiet",
         "score": 2
-      },
-      {
-        "feature": "property_type",
-        "value": "Detached",
-        "score": 3
       },
       {
         "feature": "condition",
@@ -10358,7 +10194,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:07.717486",
-    "last_seen": "2026-03-29T19:37:16.472499",
+    "last_seen": "2026-04-03T15:27:33.826430",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10435,7 +10271,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:12.924552",
-    "last_seen": "2026-03-29T19:37:55.034683",
+    "last_seen": "2026-04-03T15:25:35.241137",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10469,7 +10305,7 @@
       "property_type": {
         "value": "Detached",
         "confidence": 0.6,
-        "evidence": "Delightful Refurbished 3 Bedroom Home"
+        "evidence": "Delightful Refurbished 3 Bedroom Home in Maiden Bradley"
       },
       "condition": {
         "value": "LowMaintenance",
@@ -10550,7 +10386,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:18.884208",
-    "last_seen": "2026-03-29T19:38:32.840345",
+    "last_seen": "2026-04-03T15:26:14.289147",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10633,7 +10469,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:45.683953",
-    "last_seen": "2026-03-29T19:56:25.894156",
+    "last_seen": "2026-04-03T15:45:50.006618",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10722,33 +10558,44 @@
     "beds": 3,
     "baths": 1,
     "link": "https://www.rightmove.co.uk/properties/165273986",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/8a8a1711b/165273986/8a8a1711bd8cc4618bf8a4f62cadbdd3.jpeg",
-    "full_text": "Key features: - Show sellers you\u2019re serious - Secure viewings faster with agents - No impact on your credit score",
+    "thumbnail": null,
+    "full_text": "|\n1/12\n\u00a3595,000\nThe Old Customs House, 16b West Bay, Bridport, DT6\nSemi-Detached\n3\n1\n\nSTAMP DUTY PAID BY SELLER A unique opportunity to acquire a 3 double bed period semi-detached maisonette adjacent to the Green in the very heart of West Bay with rear driveway/parking and large private balcony commanding exceptional views\n\nReduced on 06/10/2025 by Kennedys, Bridport\n01308 800823\nLocal call rate\nContact\nSave",
     "land": null,
     "garden": null,
     "garden_size": null,
-    "property_size": "Ask agent",
-    "parking": null,
-    "key_features": [
-      "Show sellers you\u2019re serious",
-      "Secure viewings faster with agents",
-      "No impact on your credit score"
-    ],
-    "latitude": 50.711563,
-    "longitude": -2.7607,
+    "property_size": null,
+    "parking": "Yes",
+    "key_features": [],
+    "latitude": null,
+    "longitude": null,
     "source_location": "BRIDPORT",
-    "score": -6,
-    "score_percent": 44,
+    "score": 1,
+    "score_percent": 54,
     "score_breakdown": [
       {
         "feature": "garden",
         "value": "None",
         "score": -6
+      },
+      {
+        "feature": "parking",
+        "value": "Driveway",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Private",
+        "score": 2
+      },
+      {
+        "feature": "outlook",
+        "value": "Views",
+        "score": 3
       }
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:50.600296",
-    "last_seen": "2026-03-29T19:40:09.139919",
+    "last_seen": "2026-04-03T15:28:46.422813",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10762,11 +10609,53 @@
       "value": 0,
       "direction": "flat"
     },
-    "extraction_completeness": 71.4,
-    "llm_features": null,
-    "llm_score": null,
-    "llm_score_percent": null,
-    "llm_score_breakdown": []
+    "extraction_completeness": 42.9,
+    "llm_features": {
+      "parking": {
+        "value": "Driveway",
+        "confidence": 0.95,
+        "evidence": "rear driveway/parking"
+      },
+      "setting": {
+        "value": "Quiet",
+        "confidence": 0.7,
+        "evidence": "in the very heart of West Bay"
+      },
+      "outlook": {
+        "value": "Views",
+        "confidence": 0.95,
+        "evidence": "commanding exceptional views"
+      },
+      "property_type": {
+        "value": "Semi-Detached",
+        "confidence": 1.0,
+        "evidence": "Semi-Detached 3"
+      }
+    },
+    "llm_score": 8,
+    "llm_score_percent": 63,
+    "llm_score_breakdown": [
+      {
+        "feature": "parking",
+        "value": "Driveway",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Quiet",
+        "score": 2
+      },
+      {
+        "feature": "outlook",
+        "value": "Views",
+        "score": 3
+      },
+      {
+        "feature": "property_type",
+        "value": "Semi-Detached",
+        "score": 1
+      }
+    ]
   },
   "https://www.rightmove.co.uk/properties/173798831": {
     "price_display": "\u00a3595,000 Guide Price",
@@ -10811,7 +10700,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:47:56.143704",
-    "last_seen": "2026-03-29T19:40:47.144315",
+    "last_seen": "2026-04-03T15:29:25.206660",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10909,7 +10798,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:01.235398",
-    "last_seen": "2026-03-29T19:41:25.210778",
+    "last_seen": "2026-04-03T15:30:43.926686",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -10942,7 +10831,7 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "Detached Family Home"
       },
       "condition": {
@@ -11031,7 +10920,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:07.601662",
-    "last_seen": "2026-03-29T19:42:03.063633",
+    "last_seen": "2026-04-03T15:30:04.310786",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11162,7 +11051,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:12.740003",
-    "last_seen": "2026-03-29T19:42:41.088411",
+    "last_seen": "2026-04-03T15:31:24.536843",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11180,12 +11069,12 @@
     "llm_features": {
       "garden": {
         "value": "Large",
-        "confidence": 0.95,
+        "confidence": 1.0,
         "evidence": "Large enclosed garden"
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.95,
+        "confidence": 1.0,
         "evidence": "Double garage and driveway"
       },
       "setting": {
@@ -11195,7 +11084,7 @@
       },
       "outlook": {
         "value": "Views",
-        "confidence": 0.95,
+        "confidence": 1.0,
         "evidence": "Wonderful countryside views"
       }
     },
@@ -11266,7 +11155,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:18.064717",
-    "last_seen": "2026-03-29T19:43:41.785141",
+    "last_seen": "2026-04-03T15:32:54.338339",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11294,7 +11183,7 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.5,
+        "confidence": 0.7,
         "evidence": "Grade II listed period property"
       }
     },
@@ -11362,7 +11251,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:23.028909",
-    "last_seen": "2026-03-29T19:44:19.476601",
+    "last_seen": "2026-04-03T15:33:34.917270",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11459,7 +11348,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:28.779776",
-    "last_seen": "2026-03-29T19:44:57.170461",
+    "last_seen": "2026-04-03T15:34:14.494789",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11591,7 +11480,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:34.014927",
-    "last_seen": "2026-03-29T19:45:37.283156",
+    "last_seen": "2026-04-03T15:34:54.382847",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11619,7 +11508,7 @@
       },
       "parking": {
         "value": "Yes",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "Parking"
       },
       "setting": {
@@ -11728,7 +11617,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:40.000296",
-    "last_seen": "2026-03-29T19:46:15.034671",
+    "last_seen": "2026-04-03T15:35:50.129973",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11853,7 +11742,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:45.734726",
-    "last_seen": "2026-03-29T19:46:51.936999",
+    "last_seen": "2026-04-03T15:36:29.703563",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -11912,7 +11801,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:50.774096",
-    "last_seen": "2026-03-29T19:48:44.006128",
+    "last_seen": "2026-04-03T15:38:26.672259",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12008,8 +11897,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:48:55.748405",
     "last_seen": "2026-03-29T19:47:29.511010",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:48:55.748405",
@@ -12034,7 +11923,7 @@
     "beds": 3,
     "baths": 2,
     "link": "https://www.rightmove.co.uk/properties/172080728",
-    "thumbnail": "https://media.rightmove.co.uk/property-photo/cd5f1e01e/172080728/cd5f1e01ecf973382325a82474f326bc.jpeg",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/acd928da8/172080728/acd928da881c8dee5de512097d669870.jpeg",
     "full_text": "Key features: - Detached home in cul-de-sac location - Solar panels - Garage and driveway - Fully enclosed rear garden - Garden room / office - Conservatory - En-suite - Downstairs cloakroom",
     "land": null,
     "garden": "Yes",
@@ -12070,7 +11959,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:01.562605",
-    "last_seen": "2026-03-29T19:50:38.259130",
+    "last_seen": "2026-04-03T15:39:46.056249",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12185,7 +12074,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:06.657801",
-    "last_seen": "2026-03-29T19:49:21.851122",
+    "last_seen": "2026-04-03T15:37:47.745474",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12290,7 +12179,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:11.600515",
-    "last_seen": "2026-03-29T19:49:59.822734",
+    "last_seen": "2026-04-03T15:39:06.129684",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12313,7 +12202,7 @@
       },
       "parking": {
         "value": "Garage",
-        "confidence": 0.9,
+        "confidence": 0.95,
         "evidence": "Garage and parking"
       },
       "setting": {
@@ -12390,7 +12279,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:16.920627",
-    "last_seen": "2026-03-29T19:48:06.398681",
+    "last_seen": "2026-04-03T15:37:08.606735",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12443,7 +12332,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:21.851091",
-    "last_seen": "2026-03-29T19:51:15.335961",
+    "last_seen": "2026-04-03T15:41:04.908423",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12512,8 +12401,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:26.694832",
     "last_seen": "2026-03-29T19:51:52.731242",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:49:26.694832",
@@ -12606,7 +12495,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:31.864053",
-    "last_seen": "2026-03-29T19:53:07.847005",
+    "last_seen": "2026-04-03T15:43:01.109789",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12691,7 +12580,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:36.964502",
-    "last_seen": "2026-03-29T19:54:22.000234",
+    "last_seen": "2026-04-03T15:41:43.466824",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12748,7 +12637,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:42.077672",
-    "last_seen": "2026-03-29T19:53:45.202538",
+    "last_seen": "2026-04-03T15:43:39.420758",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12829,7 +12718,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:48.755435",
-    "last_seen": "2026-03-29T19:52:29.924927",
+    "last_seen": "2026-04-03T15:42:22.346926",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12846,7 +12735,7 @@
     "extraction_completeness": 71.4,
     "llm_features": {
       "setting": {
-        "value": "Rural",
+        "value": "Countryside",
         "confidence": 0.9,
         "evidence": "Rural Countryside Village Location"
       }
@@ -12856,7 +12745,7 @@
     "llm_score_breakdown": [
       {
         "feature": "setting",
-        "value": "Rural",
+        "value": "Countryside",
         "score": 3
       }
     ]
@@ -12894,7 +12783,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:49:55.097072",
-    "last_seen": "2026-03-29T19:55:09.875068",
+    "last_seen": "2026-04-03T15:44:17.883146",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -12974,7 +12863,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:22.106595",
-    "last_seen": "2026-03-29T19:55:47.882875",
+    "last_seen": "2026-04-03T15:45:07.977433",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13011,8 +12900,8 @@
         "evidence": "Attached garage/workshop"
       },
       "setting": {
-        "value": "Countryside",
-        "confidence": 0.7,
+        "value": "Quiet",
+        "confidence": 0.6,
         "evidence": "Popular historic village"
       },
       "outlook": {
@@ -13026,8 +12915,8 @@
         "evidence": "End-of-terrace home"
       }
     },
-    "llm_score": 18,
-    "llm_score_percent": 77,
+    "llm_score": 17,
+    "llm_score_percent": 76,
     "llm_score_breakdown": [
       {
         "feature": "property_size",
@@ -13051,8 +12940,8 @@
       },
       {
         "feature": "setting",
-        "value": "Countryside",
-        "score": 3
+        "value": "Quiet",
+        "score": 2
       },
       {
         "feature": "outlook",
@@ -13105,7 +12994,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:27.179899",
-    "last_seen": "2026-03-29T20:00:12.370904",
+    "last_seen": "2026-04-03T15:51:03.032330",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13123,7 +13012,7 @@
     "llm_features": {
       "parking": {
         "value": "Driveway",
-        "confidence": 1.0,
+        "confidence": 0.95,
         "evidence": "Ample Driveway Parking"
       },
       "setting": {
@@ -13186,7 +13075,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:32.169176",
-    "last_seen": "2026-03-29T19:58:18.878864",
+    "last_seen": "2026-04-03T15:47:07.488914",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13207,29 +13096,39 @@
         "confidence": 1.0,
         "evidence": "Approximately 0.37 Acre Plot"
       },
+      "garden": {
+        "value": "Yes",
+        "confidence": 0.7,
+        "evidence": "Approximately 0.37 Acre Plot"
+      },
       "setting": {
         "value": "Quiet",
-        "confidence": 0.6,
+        "confidence": 0.5,
         "evidence": "Highly Sought After Position"
       },
       "outlook": {
         "value": "Views",
-        "confidence": 0.8,
+        "confidence": 0.6,
         "evidence": "Viewings Highly Advised"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
+        "confidence": 0.8,
         "evidence": "Very Well Presented Throughout"
       }
     },
-    "llm_score": 9,
-    "llm_score_percent": 65,
+    "llm_score": 11,
+    "llm_score_percent": 68,
     "llm_score_breakdown": [
       {
         "feature": "land",
         "value": 0.37,
         "score": 8
+      },
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
       },
       {
         "feature": "setting",
@@ -13295,7 +13194,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:38.133937",
-    "last_seen": "2026-03-29T19:59:34.959685",
+    "last_seen": "2026-04-03T15:50:24.140209",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13380,7 +13279,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:43.441198",
-    "last_seen": "2026-03-29T19:57:03.114827",
+    "last_seen": "2026-04-03T15:49:05.445602",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13433,7 +13332,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:48.633293",
-    "last_seen": "2026-03-29T20:00:49.290625",
+    "last_seen": "2026-04-03T15:47:46.775680",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13503,7 +13402,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:50:54.911918",
-    "last_seen": "2026-03-29T20:01:27.370948",
+    "last_seen": "2026-04-03T15:49:45.235430",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13625,8 +13524,8 @@
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:51:00.384634",
     "last_seen": "2026-03-29T19:57:40.961988",
-    "status": "active",
-    "expired_at": null,
+    "status": "expired",
+    "expired_at": "2026-04-03T15:51:09.078454",
     "price_history": [
       {
         "date": "2026-03-27T18:51:00.384634",
@@ -13724,7 +13623,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-27T18:51:06.031314",
-    "last_seen": "2026-03-29T19:58:56.497080",
+    "last_seen": "2026-04-03T15:48:26.777994",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -13750,6 +13649,11 @@
         "confidence": 0.8,
         "evidence": "Garden Room"
       },
+      "setting": {
+        "value": "Quiet",
+        "confidence": 0.5,
+        "evidence": "Easy reach of amenities"
+      },
       "property_type": {
         "value": "Detached",
         "confidence": 1.0,
@@ -13761,8 +13665,8 @@
         "evidence": "Double Glazing and Central Heating"
       }
     },
-    "llm_score": 3,
-    "llm_score_percent": 56,
+    "llm_score": 5,
+    "llm_score_percent": 59,
     "llm_score_breakdown": [
       {
         "feature": "garden",
@@ -13772,6 +13676,11 @@
       {
         "feature": "outbuildings",
         "value": "Outbuilding",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Quiet",
         "score": 2
       },
       {
@@ -13812,8 +13721,8 @@
       "EXCELLENT RESIDENTIAL ADDRESS.",
       "SHORT WALK TO SHERBORNE CENTRE AND MAINLINE RAILWAY STATION TO LONDON."
     ],
-    "latitude": 50.953178,
-    "longitude": -2.513826,
+    "latitude": 50.953449,
+    "longitude": -2.513837,
     "source_location": "SHERBORNE",
     "score": 13,
     "score_percent": 70,
@@ -13846,7 +13755,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-28T08:35:01.236025",
-    "last_seen": "2026-03-29T18:38:09.589008",
+    "last_seen": "2026-04-03T14:34:27.541115",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -14003,7 +13912,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-28T08:35:19.360861",
-    "last_seen": "2026-03-29T18:40:05.389347",
+    "last_seen": "2026-04-03T14:26:59.305750",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -14035,13 +13944,13 @@
         "evidence": "- SINGLE CARPORT PLUS LARGE VISITORS PARKING AREA."
       },
       "setting": {
-        "value": "Private",
-        "confidence": 0.9,
+        "value": "Quiet",
+        "confidence": 0.7,
         "evidence": "- TOP 'TUCKED AWAY' LOCATION NEAR SHERBORNE ABBEY."
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "evidence": "- HANDSOME EXCLUSIVE NATURAL STONE PERIOD-STYLE HOME"
       },
       "age_restriction": {
@@ -14051,7 +13960,7 @@
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.6,
+        "confidence": 0.5,
         "evidence": "- MAINS GAS FIRED RADIATOR CENTRAL HEATING AND PERIOD STYLE DOUBLE GLAZING."
       }
     },
@@ -14075,7 +13984,7 @@
       },
       {
         "feature": "setting",
-        "value": "Private",
+        "value": "Quiet",
         "score": 2
       },
       {
@@ -14145,7 +14054,7 @@
     ],
     "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
     "first_seen": "2026-03-28T11:36:24.400474",
-    "last_seen": "2026-03-29T19:39:31.982046",
+    "last_seen": "2026-04-03T15:40:25.968810",
     "status": "active",
     "expired_at": null,
     "price_history": [
@@ -14168,7 +14077,7 @@
       },
       "garden": {
         "value": "Large",
-        "confidence": 0.9,
+        "confidence": 0.8,
         "evidence": "Separate delightful walled garden with summerhouse/studio"
       },
       "outbuildings": {
@@ -14178,7 +14087,7 @@
       },
       "setting": {
         "value": "Quiet",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "evidence": "one of the most popular locations in the town"
       },
       "outlook": {
@@ -14188,12 +14097,12 @@
       },
       "property_type": {
         "value": "Detached",
-        "confidence": 0.8,
+        "confidence": 0.7,
         "evidence": "Charming period cottage"
       },
       "condition": {
         "value": "LowMaintenance",
-        "confidence": 0.7,
+        "confidence": 0.6,
         "evidence": "Well presented"
       }
     },
@@ -14236,5 +14145,654 @@
         "score": -4
       }
     ]
+  },
+  "https://www.rightmove.co.uk/properties/174055250": {
+    "price_display": "\u00a3600,000",
+    "price": 600000,
+    "location": "Sherborne",
+    "beds": 3,
+    "baths": 1,
+    "link": "https://www.rightmove.co.uk/properties/174055250",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/d973269b5/174055250/d973269b5fde56b3d8f18e63e9546bca.jpeg",
+    "full_text": "Key features: - Delightful Grade II Listed Former Teacher's House - Boasting Character Features - Three Double Bedrooms - Two Reception Rooms - Downstairs Toilet - Upstairs Family Bathroom - Beautiful Garden - Workshop - Allocated Parking - Highly Sought After Location",
+    "land": null,
+    "garden": "Yes",
+    "garden_size": null,
+    "property_size": "Ask agent",
+    "parking": null,
+    "key_features": [
+      "Delightful Grade II Listed Former Teacher's House",
+      "Boasting Character Features",
+      "Three Double Bedrooms",
+      "Two Reception Rooms",
+      "Downstairs Toilet",
+      "Upstairs Family Bathroom",
+      "Beautiful Garden",
+      "Workshop",
+      "Allocated Parking",
+      "Highly Sought After Location"
+    ],
+    "latitude": 50.943963,
+    "longitude": -2.520009,
+    "source_location": "SHERBORNE",
+    "score": 5,
+    "score_percent": 59,
+    "score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
+      },
+      {
+        "feature": "parking",
+        "value": "Yes",
+        "score": 1
+      },
+      {
+        "feature": "outbuildings",
+        "value": "Workshop",
+        "score": 2
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T14:24:54.453852",
+    "last_seen": "2026-04-03T14:24:54.453852",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T14:24:54.453852",
+        "price": 600000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 78.6,
+    "llm_features": {
+      "garden": {
+        "value": "Yes",
+        "confidence": 0.9,
+        "evidence": "Beautiful Garden"
+      },
+      "parking": {
+        "value": "Yes",
+        "confidence": 0.8,
+        "evidence": "Allocated Parking"
+      },
+      "outbuildings": {
+        "value": "Workshop",
+        "confidence": 1.0,
+        "evidence": "Workshop"
+      },
+      "property_type": {
+        "value": "Detached",
+        "confidence": 0.7,
+        "evidence": "Former Teacher's House"
+      }
+    },
+    "llm_score": 8,
+    "llm_score_percent": 63,
+    "llm_score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
+      },
+      {
+        "feature": "parking",
+        "value": "Yes",
+        "score": 1
+      },
+      {
+        "feature": "outbuildings",
+        "value": "Workshop",
+        "score": 2
+      },
+      {
+        "feature": "property_type",
+        "value": "Detached",
+        "score": 3
+      }
+    ]
+  },
+  "https://www.rightmove.co.uk/properties/174029219": {
+    "price_display": "\u00a3475,000 Guide Price",
+    "price": 475000,
+    "location": "Home Drive, Yeovil, Somerset",
+    "beds": 3,
+    "baths": 1,
+    "link": "https://www.rightmove.co.uk/properties/174029219",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/e5e6c0da5/174029219/e5e6c0da596ad837c0334414d8caeab7.jpeg",
+    "full_text": "Key features: - A Well Proportioned Three Bedroom Detached Family Home - Sought After Residential Location - Three Reception Rooms - Gas Central Heating - UPVC Double Glazing - Detached Garage - Off Road Parking For Multiple Vehicles - Lovely Landscaped Garden Approx 1/4 Acre",
+    "land": "4 acre(s)",
+    "garden": "Yes",
+    "garden_size": "4 acre",
+    "property_size": "1,238 sq ft\n\n115 sq m",
+    "parking": "Garage",
+    "key_features": [
+      "A Well Proportioned Three Bedroom Detached Family Home",
+      "Sought After Residential Location",
+      "Three Reception Rooms",
+      "Gas Central Heating",
+      "UPVC Double Glazing",
+      "Detached Garage",
+      "Off Road Parking For Multiple Vehicles",
+      "Lovely Landscaped Garden Approx 1/4 Acre"
+    ],
+    "latitude": 50.9464,
+    "longitude": -2.65231,
+    "source_location": "SHERBORNE",
+    "score": 17,
+    "score_percent": 76,
+    "score_breakdown": [
+      {
+        "feature": "land",
+        "value": 4.0,
+        "score": 8
+      },
+      {
+        "feature": "property_size",
+        "value": 1238.0,
+        "score": 4
+      },
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
+      },
+      {
+        "feature": "parking",
+        "value": "Garage",
+        "score": 3
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Sherborne%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E1199&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T14:36:25.693451",
+    "last_seen": "2026-04-03T14:36:25.693451",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T14:36:25.693451",
+        "price": 475000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 100.0,
+    "llm_features": {
+      "land": {
+        "value": 0.25,
+        "confidence": 0.95,
+        "evidence": "Lovely Landscaped Garden Approx 1/4 Acre"
+      },
+      "garden": {
+        "value": "Large",
+        "confidence": 0.8,
+        "evidence": "Lovely Landscaped Garden Approx 1/4 Acre"
+      },
+      "parking": {
+        "value": "Garage",
+        "confidence": 0.95,
+        "evidence": "Detached Garage - Off Road Parking For Multiple Vehicles"
+      },
+      "setting": {
+        "value": "Quiet",
+        "confidence": 0.6,
+        "evidence": "Sought After Residential Location"
+      },
+      "property_type": {
+        "value": "Detached",
+        "confidence": 1.0,
+        "evidence": "A Well Proportioned Three Bedroom Detached Family Home"
+      },
+      "condition": {
+        "value": "LowMaintenance",
+        "confidence": 0.7,
+        "evidence": "UPVC Double Glazing"
+      }
+    },
+    "llm_score": 17,
+    "llm_score_percent": 76,
+    "llm_score_breakdown": [
+      {
+        "feature": "land",
+        "value": 0.25,
+        "score": 8
+      },
+      {
+        "feature": "garden",
+        "value": "Large",
+        "score": 5
+      },
+      {
+        "feature": "parking",
+        "value": "Garage",
+        "score": 3
+      },
+      {
+        "feature": "setting",
+        "value": "Quiet",
+        "score": 2
+      },
+      {
+        "feature": "property_type",
+        "value": "Detached",
+        "score": 3
+      },
+      {
+        "feature": "condition",
+        "value": "LowMaintenance",
+        "score": -4
+      }
+    ]
+  },
+  "https://www.rightmove.co.uk/properties/173971481": {
+    "price_display": "\u00a3425,000 Offers in Region of",
+    "price": 425000,
+    "location": "Tyning Hill, Hemington, BA3",
+    "beds": 3,
+    "baths": 2,
+    "link": "https://www.rightmove.co.uk/properties/173971481",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/0a4467de0/173971481/0a4467de00e1ec3582132984f5ed6b27.jpeg",
+    "full_text": "Key features: - Period property built in 1887 and completely renovated in 2002. Located in charming hamlet of Hemington.",
+    "land": null,
+    "garden": null,
+    "garden_size": null,
+    "property_size": "Ask agent",
+    "parking": null,
+    "key_features": [
+      "Period property built in 1887 and completely renovated in 2002. Located in charming hamlet of Hemington."
+    ],
+    "latitude": 51.278934,
+    "longitude": -2.388226,
+    "source_location": "FROME",
+    "score": -6,
+    "score_percent": 44,
+    "score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "None",
+        "score": -6
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T14:51:03.880708",
+    "last_seen": "2026-04-03T14:51:03.880708",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T14:51:03.880708",
+        "price": 425000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 71.4,
+    "llm_features": {
+      "potential": {
+        "value": "Renovation",
+        "confidence": 0.9,
+        "evidence": "completely renovated in 2002"
+      },
+      "setting": {
+        "value": "Countryside",
+        "confidence": 0.8,
+        "evidence": "charming hamlet of Hemington"
+      },
+      "condition": {
+        "value": "LowMaintenance",
+        "confidence": 0.7,
+        "evidence": "completely renovated in 2002"
+      }
+    },
+    "llm_score": 1,
+    "llm_score_percent": 54,
+    "llm_score_breakdown": [
+      {
+        "feature": "potential",
+        "value": "Renovation",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Countryside",
+        "score": 3
+      },
+      {
+        "feature": "condition",
+        "value": "LowMaintenance",
+        "score": -4
+      }
+    ]
+  },
+  "https://www.rightmove.co.uk/properties/173952326": {
+    "price_display": "\u00a3495,000",
+    "price": 495000,
+    "location": "Freshford",
+    "beds": 3,
+    "baths": 1,
+    "link": "https://www.rightmove.co.uk/properties/173952326",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/179318379/173952326/179318379f4d7f816f36368e99573546.jpeg",
+    "full_text": "Key features: - Beautiful View - Wood Burning Stove - Three Double Bedrooms - Dining Room - Sitting Room - Kitchen - Shower Room - Lovely South Facing Garden - Desirable Village Location - Off Road Private Parking Space",
+    "land": null,
+    "garden": "Yes",
+    "garden_size": null,
+    "property_size": "Ask agent",
+    "parking": null,
+    "key_features": [
+      "Beautiful View",
+      "Wood Burning Stove",
+      "Three Double Bedrooms",
+      "Dining Room",
+      "Sitting Room",
+      "Kitchen",
+      "Shower Room",
+      "Lovely South Facing Garden",
+      "Desirable Village Location",
+      "Off Road Private Parking Space"
+    ],
+    "latitude": 51.333633,
+    "longitude": -2.299389,
+    "source_location": "FROME",
+    "score": 5,
+    "score_percent": 59,
+    "score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
+      },
+      {
+        "feature": "parking",
+        "value": "Yes",
+        "score": 1
+      },
+      {
+        "feature": "setting",
+        "value": "Private",
+        "score": 2
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T15:02:57.229666",
+    "last_seen": "2026-04-03T15:02:57.229666",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T15:02:57.229666",
+        "price": 495000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 78.6,
+    "llm_features": {
+      "garden": {
+        "value": "Yes",
+        "confidence": 0.9,
+        "evidence": "Lovely South Facing Garden"
+      },
+      "parking": {
+        "value": "Driveway",
+        "confidence": 0.8,
+        "evidence": "Off Road Private Parking Space"
+      },
+      "setting": {
+        "value": "Quiet",
+        "confidence": 0.7,
+        "evidence": "Desirable Village Location"
+      },
+      "outlook": {
+        "value": "Views",
+        "confidence": 0.9,
+        "evidence": "Beautiful View"
+      }
+    },
+    "llm_score": 9,
+    "llm_score_percent": 65,
+    "llm_score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "Yes",
+        "score": 2
+      },
+      {
+        "feature": "parking",
+        "value": "Driveway",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Quiet",
+        "score": 2
+      },
+      {
+        "feature": "outlook",
+        "value": "Views",
+        "score": 3
+      }
+    ]
+  },
+  "https://www.rightmove.co.uk/properties/174006194": {
+    "price_display": "\u00a3400,000 Offers Over",
+    "price": 400000,
+    "location": "Mells Lane, Radstock, Somerset, BA3",
+    "beds": 3,
+    "baths": 1,
+    "link": "https://www.rightmove.co.uk/properties/174006194",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/9f2641093/174006194/9f26410933ef30703c2c9853941b7aab.jpeg",
+    "full_text": "Key features: - Show sellers you\u2019re serious - Secure viewings faster with agents - No impact on your credit score",
+    "land": null,
+    "garden": null,
+    "garden_size": null,
+    "property_size": "Ask agent",
+    "parking": null,
+    "key_features": [
+      "Show sellers you\u2019re serious",
+      "Secure viewings faster with agents",
+      "No impact on your credit score"
+    ],
+    "latitude": 51.288546,
+    "longitude": -2.436084,
+    "source_location": "FROME",
+    "score": -6,
+    "score_percent": 44,
+    "score_breakdown": [
+      {
+        "feature": "garden",
+        "value": "None",
+        "score": -6
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Frome%2C+Somerset&useLocationIdentifier=true&locationIdentifier=REGION%5E536&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T15:24:55.086890",
+    "last_seen": "2026-04-03T15:24:55.086890",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T15:24:55.086890",
+        "price": 400000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 71.4,
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
+  },
+  "https://www.rightmove.co.uk/properties/173930870": {
+    "price_display": "\u00a3550,000 Offers in Excess of",
+    "price": 550000,
+    "location": "Broadoak, Bridport",
+    "beds": 2,
+    "baths": 1,
+    "link": "https://www.rightmove.co.uk/properties/173930870",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/aed919645/173930870/aed919645338a73115c6fe27fe5d12a7.jpeg",
+    "full_text": "Key features: - Delightful two bedroom cottage - Stables and a paddock - Peaceful rural location - A plot of 0.32 acres",
+    "land": "0.32 acre(s)",
+    "garden": null,
+    "garden_size": "0.32 acre",
+    "property_size": "Ask agent",
+    "parking": null,
+    "key_features": [
+      "Delightful two bedroom cottage",
+      "Stables and a paddock",
+      "Peaceful rural location",
+      "A plot of 0.32 acres"
+    ],
+    "latitude": 50.772308,
+    "longitude": -2.80906,
+    "source_location": "BRIDPORT",
+    "score": 5,
+    "score_percent": 59,
+    "score_breakdown": [
+      {
+        "feature": "land",
+        "value": 0.32,
+        "score": 8
+      },
+      {
+        "feature": "garden",
+        "value": "None",
+        "score": -6
+      },
+      {
+        "feature": "setting",
+        "value": "Rural",
+        "score": 3
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T15:32:04.013025",
+    "last_seen": "2026-04-03T15:32:04.013025",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T15:32:04.013025",
+        "price": 550000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 85.7,
+    "llm_features": {
+      "land": {
+        "value": 0.32,
+        "confidence": 1.0,
+        "evidence": "A plot of 0.32 acres"
+      },
+      "outbuildings": {
+        "value": "Outbuilding",
+        "confidence": 0.9,
+        "evidence": "Stables and a paddock"
+      },
+      "setting": {
+        "value": "Rural",
+        "confidence": 1.0,
+        "evidence": "Peaceful rural location"
+      }
+    },
+    "llm_score": 13,
+    "llm_score_percent": 70,
+    "llm_score_breakdown": [
+      {
+        "feature": "land",
+        "value": 0.32,
+        "score": 8
+      },
+      {
+        "feature": "outbuildings",
+        "value": "Outbuilding",
+        "score": 2
+      },
+      {
+        "feature": "setting",
+        "value": "Rural",
+        "score": 3
+      }
+    ]
+  },
+  "https://www.rightmove.co.uk/properties/173963084": {
+    "price_display": "\u00a3400,000 Guide Price",
+    "price": 400000,
+    "location": "East Street, Beaminster, Dorset, DT8",
+    "beds": 3,
+    "baths": 2,
+    "link": "https://www.rightmove.co.uk/properties/173963084",
+    "thumbnail": "https://media.rightmove.co.uk/property-photo/ff3bb51bc/173963084/ff3bb51bc39ee86f053eb333630eb1f7.jpeg",
+    "full_text": "Key features: - Show sellers you\u2019re serious - Secure viewings faster with agents - No impact on your credit score",
+    "land": null,
+    "garden": null,
+    "garden_size": null,
+    "property_size": "1,432 sq ft\n\n133 sq m",
+    "parking": null,
+    "key_features": [
+      "Show sellers you\u2019re serious",
+      "Secure viewings faster with agents",
+      "No impact on your credit score"
+    ],
+    "latitude": 50.807466,
+    "longitude": -2.735859,
+    "source_location": "BRIDPORT",
+    "score": -2,
+    "score_percent": 49,
+    "score_breakdown": [
+      {
+        "feature": "property_size",
+        "value": 1432.0,
+        "score": 4
+      },
+      {
+        "feature": "garden",
+        "value": "None",
+        "score": -6
+      }
+    ],
+    "source_url": "https://www.rightmove.co.uk/property-for-sale/find.html?searchLocation=Bridport%2C+Dorset&useLocationIdentifier=true&locationIdentifier=REGION%5E214&radius=5.0&minPrice=400000&maxPrice=600000&minBedrooms=2&maxBedrooms=3&propertyTypes=detached%2Csemi-detached%2Cterraced&_includeSSTC=on",
+    "first_seen": "2026-04-03T15:46:28.167728",
+    "last_seen": "2026-04-03T15:46:28.167728",
+    "status": "active",
+    "expired_at": null,
+    "price_history": [
+      {
+        "date": "2026-04-03T15:46:28.167728",
+        "price": 400000
+      }
+    ],
+    "price_change": {
+      "previous_price": null,
+      "value": null,
+      "direction": null
+    },
+    "extraction_completeness": 71.4,
+    "llm_features": null,
+    "llm_score": null,
+    "llm_score_percent": null,
+    "llm_score_breakdown": []
   }
 }
